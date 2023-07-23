@@ -15,9 +15,11 @@ This adventure develops several themes such as violence, slavery, environment de
 treatment of animals, and equally crass exploitation of humanoids by the local elite and their 
 henchmen. At times, player characters may find themselves in the position of choosing to (be 
 employed to) commit such acts themselves. It is up to them to navigate through the moral 
-and financial morass as the protagonists of _this_ story. The identity of the children's story 
-that underlies the setting is not revealed so as not to overly prompt specific behaviors, except 
-perhaps as a fun reveal at the end. What _have_ you done, children?
+and financial morass as protagonists of _this_ story. The adventure will not go out of its way 
+to reward or penalize such behavior, except with the predictable natural outcome for such activities.
+(E.g. Rob a bank and earn the contents and the ire of the local population.) The identity of 
+the children's story that provides the setting is not revealed so as not to overly prompt specific 
+behaviors, except perhaps as a fun reveal at the end. What _have_ you done, children?
 
 (DMs only!) Please see Overview.md for further info. 
 
