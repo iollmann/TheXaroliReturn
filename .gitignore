@@ -1,0 +1,5 @@
+# File types to be ignored by git
+
+**/.DS_Store
+**/xcuserdata
+
