@@ -109,7 +109,7 @@ They never stood a chance.
 Aluffurt forest, a tropical former paradise turned on its head, featuring the 
 mana rich Aluffurt tree, and associated species:
 
-> ** Aluffurt ** - A species of palm tree local to the Rodoehtian Plateau, found nowhere 
+> **Aluffurt** - A species of palm tree local to the Rodoehtian Plateau, found nowhere 
 else. It is notable for its unusual foliage, seen in a variety of pastel colors. The 
 microdendritic structure is used to harvest moisture from the freezing fog that rolls down 
 off the glaciers, which the tree uses as an auxiliary source of water in the dry fall and 
@@ -157,22 +157,127 @@ peculiar genetic trait -- the pupils of their eyes look like spinning gold coins
 being relatively bookish and reclusive by nature it is unusual for outside sources to get
 the opportunity to meet one and even then the event is usually covered by a non-disclosure
 agreement. Few ever leave the employ of the bean counters to tell tales. In addition to
-the luxuries productions, the family runs a local resort at which nobles and wizards come
+the production of luxuries, the family runs a local resort at which nobles and wizards come
 and feast on the mana rich Aluffurt fruit and lie in best with freshly woven sheets made
 of Aluffurt fruits and eemaws down. This is where Mr. Relecno is to be found, if you are
-able to penetrate deep enough into the back office. 
+able to penetrate deep enough into the back office to find him. 
 
-## The plot: 
+> **The Rodoehtian Plateau**  It is best to think of the Rodoehtian Plateau as something
+akin to the Tibetan plateau, but without the Dalai Lama. It is the highest region in 
+Leseig and consists of a single large valley about 60 miles long, with a river that runs 
+the length of it and steep mountains rising to impossible heights on either side. The 
+entrance to the valley is traversed by a road consisting almost entirely of switchbacks --
+431 of them! -- which few merchants are willing traverse. While there have been some 
+military expeditions from the Hierophancy to attempt to bring law and order to the high
+valley in their own backyard, the peoples there are largely uneducated, neither able to 
+read nor write, and consequently have been quite naively resistant to mastering The Law. 
+In addition, the altitude is so extreme that the weather can be quite severe in winter,
+and the air so thin that expeditionary forces typically are unwilling to do much more than
+stand around. Women from the lowlands are also unable to carry a pregnancy to term, so 
+often within a few years, the commander engineers his recall to society and the garrison
+leaves with him, "for his personal protection". The valley is currently enjoying some 
+respite from theocratic control at the moment, though the recent arrival of Eht Relecno 
+seems likely to result in some excitement beyond the traditional Yak festival and the 
+passing of the seasons.
+
+
+### Cast of Characters
 Life under the Relecno Gnome family has always revolved around money. The family rose to 
 prominence as accountancy and bankers to the Hierophant Supreme, on the back of their 
 (reputedly) highly profitable and increasingly complicated financial instruments. It has 
 been said that the complexity and thoroughness of the contracts rivaled even those of 
-the 9 Hells, though few were willing to do a direct head to head study. They amassed a 
+the 9 Hells, though few have been willing to do a direct head to head study. They amassed a 
 enormous fortune financing the many Crusades of the Hierphants, and used that wealth to 
-maintain enormous private estates in the city state of Leseig, and through various means 
-dominate local politics there to keep tax rates on capital low.
+maintain palacial private estates in the city state of Lian within the Hierophancy, and 
+through various means dominate local politics there to keep tax rates on capital low.
 
-Some 5 years ago, a promising third son to 
+**Eht Relecno ()** -- Some 20 years ago, a promising third son to Don Relecno, Lord
+Solicitor to the Hierophant, Eht Relecno, left Lian to travel to the Rodoehtian Plateau to
+subjugate the natives / seek his fortune. After spending some years setting up a law
+practice at the foot of the valley to bring spiritual enlightment to the natives (most of
+Whom never heard of law, instead relying on a complex oral tradition of obligation and
+taboo), he worked with the single priest of the Hierophancy stationed in the region to
+bring about a court system, which Eht now presides over. He currently rules over a
+business empire looking to exploit the area's natural resources for consumption and export
+to the Hierophancy. He also has his own more sinister agenda going behind the scenes
+intended to give him immortality. After watching his father for many years, he has
+concluded the man's prime qualification for the job is his advanced age -- Don Relecno is
+389 years old -- and Eht wagers he can eventually inherit the position _permanently_ if he
+can find a way to cheat death. Who knows? Perhaps the position of Hierophancy Supreme will
+eventually await?  It has in the past been occupied by former pirates, slavers and
+murderers. Surely, a rich man may speak for the the kingdom of heaven?
+
+**Legitus Legitus** (Cleric 4)-- The human priest, Legitus Legitus, is optimistic but
+wary. He fully knows who he is collaborating with, or at least his family history. 
+Legitus Legitus is a simple man. He is hoping his assignment to the Rodoehtian will result
+in some recognition from the Hierophancy -- he really thinks _Everybody ought to have a
+maid_ (sing it with me!) -- but the practical realities on how to translate the best
+qualities of the region to success, profit and most of all wealth so he can afford
+servants of his own are lost on him. Left to his own devices, Legitus Legitus is an
+inwardly focused man, delighted with toying with interactions between obscure corners of
+the law. The majesty of his natural surroundings -- the Allufurt forests and creatures
+within -- are lost on him.  His wife, **Magna Nasa**, is ever pushing him to political
+success within the hierarchy. However, his current assignment in the remote Rodoehtian
+Plateau may be as much do to the Hierophancy's appreciation of her qualities as his. If
+the characters decide to fight Relecno in court, Legitus Legitus, the only other qualified
+barrister in town will likely agree to represent them so as to preserve the tenet of
+qualified representation under the law. His services will be _pro bono_ if the party is
+subject to prosecution.
+
+**The Yokel Tribe** -- The local tribesmen are collectively called Yokels. They are 
+farmers and herdsmen, favoring the Rodoehtian Yak for their butter, yoghurt and fermented
+Yaks milk. THe breed is easy to watch over and makes a nice milk, if a bit grass flavored. 
+They prize Yaks, peace, beautiful daughters and Yaks, in that order. The Yokels have a 
+rich oral tradition of stories, involving local heroes and the tall peaks surrounding 
+their valley. Yaks always figure prominently in the tales, either as rewards, or a source
+for crisis, or as friends perhaps for comic relief. The Yokels have no chief. They find
+it easier to deal with the Hierophancy if there is no one for the Hierophancy to deal 
+with.
+
+**Hobgoblins** -- A tribe of hobgoblins (with a few bugbear friends) inhabits the valley.
+Traditionally they have lived in the caves in remote corners of the valley, occasionally
+emerging to raid local villages for slaves and meat. However, Eht Relecno seems to have 
+managed to create a business relationship with the local chief and they may be found 
+working in his employ wherever tough guys are needed. 
+
+
+### The Plot:
+
+At the beginning of the adventure, Eht Relcno has run into a problem. He is having trouble
+harvesting Allufurt trees fast enough because the local Yokel tribe is too busy watching
+their Yaks and can't be convinced, bribed or coerced to abandon them in favor of chopping
+down trees.  If pressed, they simply disappear into the forests with their axes and can be
+found a few days later back with their herds again. The Yokels really do love their Yaks!
+
+The ever enterprising Eht has however learned of the proclivity of the native Eemaws swan
+to strip the choice Allufurt branches to line their nests in the shores of local ponds. 
+Unfortunately, these are too far from the factory, and the lengthy round trip between 
+nest and warehouse is logistically challenging limiting production. Instead Eht has come
+up with awful idea, a _wonderful awful_ idea to fill in the Eeemaws roosting ponds with 
+rubble and instead dam the Rodoehtian river near his factory to make the only roosting 
+sites for the birds right next to his factory. He reasons the fowl can fly the fronds 
+to the factory vicinity faster than he can truck them by cart, so lets get them to do 
+the work for free. Consequently, he has caused a dam to be built flooding the entire 
+valley. He has not factored in the idea that the unknown PCs may take this poorly. The
+local Yokels have historically been extremely passive in their dealings with the 
+Hierophancy, typically resorting to a zen-like political judo in their passive resistance
+to the litigious theocracy. He hasn't yet realized what havoc the waters are playing with
+the now flooded Allufurt forests upstream. 
+
+Now that the dam has been constructed, Eht is now looking for slaves to build artificial 
+Eemaws fowl nesting sites in flat areas near the dam. Once complete, the slaves will be
+responsible for harvesting all of the Allufurt fronds brought in by the nesting Eemaws 
+fowl and bringing them down the back side of the dam to the factory, where they can be
+converted to fashion accessories and the valley's own inscrutable product, the deenth. 
+
+**The Deenth** -- Eht is the inventor of the deenth, and seems to think that it will be 
+amazing and the most useful thing ever, but nobody around him seems to get it. It is a 
+trench coat like design with long cords on the sleeves, presumably to tie on mittens. Most 
+inexplicably, the bottom where your legs would stick out is sewn closed with a proprietary 
+method that leaves the seam invisible. 
+
+Along the way Eht has a secret side project going on, his own immortality. He has made a 
+deal with a Devil () to 
 
 
 The party has all traveled to the resort town of Giesel, where they hope to earn their 
