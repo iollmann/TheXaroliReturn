@@ -22,6 +22,11 @@ to reward or penalize such behavior, except with the predictable natural outcome
 the children's story that provides the setting is not revealed so as not to overly prompt specific 
 behaviors, except perhaps as a fun reveal at the end. What _have_ you done, children?
 
+Provided materials are a mixture of markdown files and XML files from Game Master 5th Edition and
+Fight Club 5th edition, D&D assistant apps. (We got these from the iOS/macOS App store. The
+full featured versions of these are something like $2.99, so generally cheaper than paid 
+versions of online VTTs and D&D Beyond. 
+
 (DMs only!) Please see Overview.md for further info. 
 
 ### License  
