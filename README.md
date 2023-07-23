@@ -4,10 +4,11 @@ This is a D&D 5e (2014 ed.) adventure that borrows from a popular children's sto
 It is intended for 4-6 players. Since my players are teens and come from two family groups, 
 session 0 is split into group A and group B segments to deal with the fact that some of
 the players are adventuring separately from the other group at first. They will meet up later.
-The characters are level 1 to start, and will advance in a milestone fashion as the story
-progresses. I allowed character concepts from any official published WoTC  rule / source book. 
-Unearthed Arcana was disallowed. No established pantheon is prescribed.  Since there is not a 
-strong religious component to this adventure, players were allowed to invent their own 
+With several session 0 onramps, you may be able to use these to dovetail with your current 
+campaign setting. The characters are level 1 to start, and will advance in a milestone fashion 
+as the story progresses. I allowed character concepts from any official published WoTC  rule / 
+source book. Unearthed Arcana was disallowed. No established pantheon is prescribed.  Since there 
+is not a strong religious component to this adventure, players were allowed to invent their own 
 (sometimes comical) deities to worship as needed. I find this makes religion less heavy and is 
 often a deep soure of unexpected mirth in a campaign for young people. 
 
