@@ -21,7 +21,7 @@ perhaps as a fun reveal at the end. What _have_ you done, children?
 
 (DMs only!) Please see Overview.md for further info. 
 
-###License
+### License  
 This content is licensed under the Creative Commons Zero v1.0 license. All materials are 
 Copyright (c) 2023, Ian Ollmann, except for some of the maps. Maps which are copyright Ian Ollmann 
 will be labelled as such in one corner. The rest of the embedded map assets in the 
