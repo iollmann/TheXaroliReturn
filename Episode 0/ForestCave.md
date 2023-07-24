@@ -1,5 +1,48 @@
 # ForestCave beginning
 
+## Foreword
+This is part of session zero for some of the players. My players are teens, so three 
+players (cleric, sorcerer, ranger) started in one family group. I asked them where they
+wanted to start {forest, farm, cave} and they said a cave in the forest.  Two had selected
+Far traveler as a background. The other is a dwarf, so I cobbled this together to get 
+them into one place and get them talking and role playing.  This worked pretty well, but
+I had some confusion since I had to unravel a little bit of the story they had concocted 
+themselves about how they met so that we could roleplay the event and build more backstory.
+Players are level 1.
+
+The great part of the session 0 is that it allows the players to flesh out their characters
+a bit. One of them was a cleric but had no idea who his god was. Another hadn't filled 
+out the languages yet. After this adventures, they picked languages to immediately 
+benefit them for this microscopic situation -- getting that hazard out of the way. The god
+was revealed after some discussion to be a god of light, specifically the Dwarven God Karl. 
+He was among the first dwarves to delve under the ground, and ascended when he became the
+first Dwarf to be killed by a gas explosion. In this way, he became the god of light and 
+surprise. On Dwarven Delver's day, followers of Karl plant small mostly harmless 
+pyrotechnic traps in  chests, cabinets and other enclosures to bring about the joy and 
+surprise of Karl among his followers and non-followers alike. It also brings light to 
+one of the darkest days of the year. Our tabaxi was revealed to be Persian. Our halfling
+appears to have blue skin following a magical accident. So, we were very successful getting
+to know our characters. We had a few minutes having the players introduce their character
+and what we could see about them, before the Start. 
+
+The cave uses a small cave map with about a half dozen rooms, mostly empty and a tunnel 
+leading to the surface. The empty rooms had bones, scattered rocks and some spiderwebs 
+but no additional treasure. There are a few ways out of the cave. The bug bear encounter
+is the hook to get them to continue on to the next stages of the adventure. If they don't
+go for that find another set of hobgoblins in another room or something to ensure that 
+the contract is taken from some apparent slavers that the party kills. It is useful for
+some creatures from that combat to survive unconscious so that the party has the 
+opportunity to become slavers themselves.
+
+Two of the players were far travellers and enter the scene as part of a accident with 
+otherwise routine planar travel. They were going through the gate to go shopping in the
+city of Albuquerque (no relation), but ended up here through a routine gate accident which
+may or may not have been related to the failure of the players to deliver the proper 20gp 
+tip to the gate attendant. As 1st level players, we should expect they could not afford 
+such a tip. Oh well! The other character was mushroom hunting. Apparently Karl has need 
+for holy poisonous mushrooms for some of his observances. 
+
+## Start 
 >_Gloom. The ploink of a drop of water landing in a puddle echoes around the cavern, then
 the gloom returns to silence, except for the muttering of one dwarf. He shuffles around 
 in the corner of one cavern digging at the sludge which lines the cave floor with a 
@@ -34,7 +77,7 @@ be a pile of dead giant spiders. A thick layer of webs cover the ceiling and str
 ceiling to floor in the corners where the ceiling is low enough. The walls are covered 
 with webs too.  Do any of you speak goblin?_
 
-If they do:
+If they do speak Goblin:
 
 >_Gorff: "Why did we stop and waste time with all the spiders. We are supposed to be
 looking for slaves for market!"_
@@ -64,9 +107,9 @@ big fork menacingly in your direction._
 ___
 
 
-Encounter:  
-1 bugbear  
-1 hobgoblin
+Encounter:  (300xp)
+1 bugbear  	(6 sp)
+1 hobgoblin	(2 sp)
 
 The bugbear will try to wield a net in combat to catch the party. The hobgoblin will use
 his trident to attempt to keep the players at bay (attacks mostly by held action) while 
@@ -74,14 +117,25 @@ his partner nets them one at a time. If they net a character, 1 round later they
 attempt to grapple them into a big bag and tie it up.
 ___
 
-**Contract:** Gather slaves for the Relecno Corporation for Dam construction. Reward: 50 gp
-per slave for strong workers. 10 gp for adults. 50 sp for cats.
+Additional treasure: 
+
+**Written Contract:** Gather slaves for the Relecno Corporation for Dam construction. 
+Reward: 50 gp per slave for strong workers. 10 gp for adults. 50 sp for cats.
 
 ___
 Encounter 2:
 
-Wolfs den
+Wolfs den  (300xp)
+1 Dire Wolf
+2 wolfs
 
+They are hungry and will attack the players on sight. They are wild creatures and cant
+be tamed.  In the back of the cave is a bag of beans magical item. These are always a fun
+source of chaos and give the players an out when the game gets a little too challenging. 
+
+(My players attempted to tame these wolves and burned their entire first round, granting
+the wolves effectively a surprise round. The wolves took two of them out, but ultimately
+were felled by the last character.  Live and learn. Pack tactics is lethal!)
 
 ___
 
@@ -90,4 +144,8 @@ farms, now only a great lake stands before you, with trees poking out if it, and
 broken roof peaks. The road farther up the valley disappears under the water. THe road down 
 the valley still looks passable though. It sticks to the edge of the rise up to the mountains 
 and appears to skirt the waters as it winds off into the distance._ 
+
+Segment Completion reward, 300 xp. This should be enough to get the three players to level
+2.
+
 
